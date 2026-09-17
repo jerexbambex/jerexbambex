@@ -8,6 +8,7 @@
 - 📫 How to reach me:  
   - LinkedIn: https://linkedin.com/in/oluwatosin-ogunniyi  
   - Email: oluwatosin.ogunniyi@gmail.com
+  - Portfolio: https://jerex.dev
 
 <!---
 jerexbambex/jerexbambex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
